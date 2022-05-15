@@ -1,8 +1,8 @@
-# Jogo da Cobrinha (Execução)
+# Jogo da Cobrinha
 
 ### Dependencias
 
-1. Inslatar o rustup -> `cargo install wasm-pack`
+1. Inslatar o rustup -> `sudo apt install cargo`
 
 2. Instalar "wasm-pack" -> `cargo install wasm-pack`
 
